@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Backend API endpoint
-API_URL = "https://3ba3-152-118-101-243. ngrok-free.app/ask" # Change this to your actual backend URL if deployed
+API_URL = "https://3ba3-152-118-101-243.ngrok-free.app/ask" # Change this to your actual backend URL if deployed
 
 # UI title
 st.title("💬 Helpdesk DTE UI — DeepSeek")
